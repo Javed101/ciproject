@@ -64,9 +64,9 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
+	'hostname' => 'localhost:3308',
 	'username' => 'root',
-	'password' => '',
+	'password' => 'ahamad',
 	'database' => 'mvc_db',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
